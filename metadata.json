@@ -1,0 +1,6 @@
+{
+  "name": "Year-End Team Night",
+  "description": "Annual Year-End Team Night celebration event page featuring live countdown, rooftop agenda timeline, dress code guidelines, FAQs, and RSVP registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
